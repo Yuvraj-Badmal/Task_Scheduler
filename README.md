@@ -14,4 +14,13 @@ This C++ program implements a task scheduling system using a priority queue. Tas
 1. **Adding Tasks:** Enter the task ID and priority to add tasks to the scheduler.
 2. **Executing Tasks:** Tasks are executed automatically based on their priority until all tasks are completed.
 
+## Contributing
 
+Contributions are welcome! Please open an issue or submit a pull request for any improvements or bug fixes.
+
+## Contact
+
+For any inquiries or feedback, please reach out to:
+
+- Name: Yuvraj Badmal
+- Email: badmal.uv@gmail.com
